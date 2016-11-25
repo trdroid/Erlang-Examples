@@ -12,3 +12,15 @@ droid@droidserver:~/software/Erlang/OTP-19.1$ uname -r
 Download OTP 19.1 Source File from http://www.erlang.org/downloads
 
 Installation Instructions: http://erlang.org/doc/installation_guide/INSTALL.html
+
+### Steps
+
+Unzip-Content
+
+Configure
+
+Building
+
+Testing
+
+Installing
