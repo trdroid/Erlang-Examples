@@ -1,4 +1,4 @@
-**Installing**
+### Installing
 
 ```sh
 droid@droidserver:~/software/Erlang/OTP-19.1/otp_src_19.1$ make install
@@ -246,7 +246,7 @@ test -d "/usr/local/bin" || /usr/bin/install -c -d "/usr/local/bin"
 make: *** [install.dirs] Error 1
 ```
 
-**Trying with sudo**
+### Trying with sudo
 
 ```sh
 droid@droidserver:~/software/Erlang/OTP-19.1/otp_src_19.1$ sudo make install
